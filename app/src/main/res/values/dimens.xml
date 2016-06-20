@@ -16,7 +16,7 @@
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
 
-    <!--Fonts size for material disign-->
+    <!--Fonts size for material dising-->
     <dimen name="font_size_button_allcaps_14">14sp</dimen>
     <dimen name="font_size_caption_12">12sp</dimen>
     <dimen name="font_size_body1_14">14sp</dimen>

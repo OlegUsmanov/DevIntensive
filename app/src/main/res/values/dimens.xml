@@ -13,11 +13,10 @@
     <dimen name="spacing_normal_16">16dp</dimen>
     <dimen name="spacing_medial_24">24dp</dimen>
     <dimen name="spacing_medium_32">32dp</dimen>
-    <dimen name="spacing_medium_48">48dp</dimen>
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
 
-    <!--Fonts size for material disign-->
+    <!--Fonts size for material dising-->
     <dimen name="font_size_button_allcaps_14">14sp</dimen>
     <dimen name="font_size_caption_12">12sp</dimen>
     <dimen name="font_size_body1_14">14sp</dimen>
@@ -29,5 +28,6 @@
     <dimen name="font_size_display2_45">45sp</dimen>
     <dimen name="font_size_display3_56">56sp</dimen>
     <dimen name="font_size_display4_112">112sp</dimen>
+
 
 </resources>

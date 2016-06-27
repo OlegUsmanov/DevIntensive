@@ -5,6 +5,7 @@
 
     <!--Sizes-->
     <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_small_32">32dp</dimen>
     <dimen name="size_medium_56">56dp</dimen>
     <dimen name="size_large_72">72dp</dimen>
 
@@ -28,6 +29,8 @@
     <dimen name="font_size_display2_45">45sp</dimen>
     <dimen name="font_size_display3_56">56sp</dimen>
     <dimen name="font_size_display4_112">112sp</dimen>
+    <dimen name="size_big_72">72dp</dimen>
+    <dimen name="line_size">1dp</dimen>
 
 
 </resources>

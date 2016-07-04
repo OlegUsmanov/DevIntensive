@@ -16,6 +16,7 @@
     <dimen name="spacing_medium_32">32dp</dimen>
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
+    <dimen name="spacing_larger_112">112dp</dimen>
 
     <!--Fonts size for material dising-->
     <dimen name="font_size_button_allcaps_14">14sp</dimen>
@@ -31,6 +32,7 @@
     <dimen name="font_size_display4_112">112sp</dimen>
     <dimen name="size_big_72">72dp</dimen>
     <dimen name="line_size">1dp</dimen>
-
+    <dimen name="profile_image_size">256dp</dimen>
+    <dimen name="fab_right_space">8dp</dimen>
 
 </resources>

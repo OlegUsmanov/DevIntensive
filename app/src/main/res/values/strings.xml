@@ -2,15 +2,15 @@
     <string name="app_name">Усманов Олег</string>
     <string name="field_enter">field enter</string>
     <string name="e_mail">E-mail</string>
-    <string name="user_email">Gormonist@gmail.com</string>
-    <string name="user_number">89082121024</string>
+    <string name="user_email_txt">Gormonist@gmail.com</string>
+    <string name="user_number_txt">89082121024</string>
     <string name="profile_vk">Профиль в VK</string>
-    <string name="id_profile_vk">vk.com/id29106329</string>
+    <string name="id_profile_vk_txt">vk.com/id29106329</string>
     <string name="telefone_number">Номер телефона</string>
     <string name="profile_git">Репозиторий</string>
-    <string name="id_profile_git">github.com/OlegUsmanov/DevIntensive</string>
+    <string name="id_profile_git_txt">github.com/OlegUsmanov/DevIntensive</string>
     <string name="about_myself">О себе</string>
-    <string name="myself_text">Я системный администратор уже более 10 лет, как и многие в ИТ я постоянно развиваюсь, изучаю новые технологии, вот недавно я положил сервак телефонии на 30 минут, все были рады ))))
+    <string name="myself_text_txt">Я системный администратор уже более 10 лет, как и многие в ИТ я постоянно развиваюсь, изучаю новые технологии, вот недавно я положил сервак телефонии на 30 минут, все были рады ))))
     Шутка, вот недавно с помощью DevIntesive я начал изучать Android, стремлюсь выучиться и наконец-то завязать с админить )))</string>
 
 
